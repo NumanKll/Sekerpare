@@ -1,0 +1,23 @@
+body{
+    background-color: bisque;
+}
+.ozellik li{
+    display: inline;
+    list-style: none;
+}
+.ozellik strong{
+    color: brown;
+}
+article{
+    width: 900px;
+    display: block;
+    margin:0 auto;
+
+}
+.hazirlanis{
+    list-style: none;  
+}
+.hazirlanis span{
+    background-color: brown;
+    color: bisque;
+}
